@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Nguyễn Đức Tiến 👋</h1>
 
 <p align="center">
-  <em>3rd-year CS Student @ HCMUS &nbsp;·&nbsp; Data Science & AI Engineer &nbsp;·&nbsp; Building end-to-end ML systems</em>
+  <em>3rd-year CS Student @ HCMUS · Data Science & AI Automation · Building AI-ready data pipelines and end-to-end ML systems</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ti%E1%BA%BFn-nguy%E1%BB%85n-1774b240a/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ductien1508@gmail.com">
+  <a href="mailto:ductien15082005@@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://kaggle.com/your-kaggle">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  <a href="https://github.com/CodeDaoVietNam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -20,85 +20,130 @@
 
 ## 🧠 About Me
 
-I'm a 3rd-year Computer Science student at **Ho Chi Minh University of Science (HCMUS)**, passionate about building AI systems that solve real-world problems — from implementing ML algorithms from scratch to deploying production-grade microservices.
+I'm a 3rd-year Computer Science student at **Ho Chi Minh University of Science (HCMUS)**, focused on building practical AI and data systems that connect raw data, analytics, machine learning, and automation.
 
-- 🔭 Recent: End-to-end **heart disease diagnosis system** with XAI, LLM, OCR & Docker  
-- 🌱 Currently exploring: **MLOps**, transformer fine-tuning, and scalable model serving  
-- 💡 Interested in: Applied ML, Explainable AI, NLP, and bridging research → production  
-- 🎯 Next goal: Land a **Data Science / AI internship** in 2025
+I enjoy working on projects that go beyond notebooks: collecting and cleaning data, designing feature pipelines, building APIs, creating dashboards, containerizing applications, and turning models into usable products.
+
+* 🔭 Recent focus: **AI-ready data pipelines, analytics agents, realtime monitoring systems, and ML applications**
+* 🌱 Currently learning: **MLOps, CI/CD, data engineering fundamentals, LLM tool-calling, and scalable model serving**
+* 💡 Interested in: **Applied ML, AI Automation, Data Science, NLP, Explainable AI, and production-oriented AI systems**
+* 🎯 Next goal: Land a **Data Science / AI / Automation Internship in 2026**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core ML / AI**
+### Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189A33?style=flat&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat\&logo=plotly\&logoColor=white)
 
-**MLOps & Deployment**
+### Machine Learning & AI
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189A33?style=flat\&logo=python\&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00A65A?style=flat\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-blue?style=flat)
 
-**Data & Visualization**
+### Backend, Deployment & Automation
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=github-actions\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat\&logo=apachekafka\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat\&logo=googlecolab\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🫀 [Cleveland Heart Disease Diagnosis System](https://github.com/CodeDaoVietNam/Cleveland_Heart_Disease_Diagnosis)
-> End-to-end cardiovascular risk assessment platform. XGBoost classifier trained on UCI Cleveland dataset (303 patients, 13 clinical features) with 5-fold cross-validation. Integrated SHAP explainability, Google Gemini LLM for medical advice, and EasyOCR for lab report parsing. Deployed as microservices with FastAPI + Streamlit, containerized with Docker, automated with GitHub Actions CI/CD.
+### 🤖 [AI Data Analyst Agent](https://github.com/CodeDaoVietNam/AI_DATA_ANALYST_AGENT)
 
-**Dataset:** 303 patients · 13 clinical features · 5-fold CV  
-`XGBoost` `SHAP` `FastAPI` `Streamlit` `Docker` `CI/CD` `Gemini API` `EasyOCR`
+> An AI-assisted analytics platform that allows users to upload tabular datasets, profile data quality, generate KPI dashboards, and ask grounded natural-language questions over data.
+
+* Built CSV/XLS/XLSX upload, dataset profiling, missing value checks, duplicate detection, column type inference, and metadata storage.
+* Implemented semantic column mapping for business roles such as revenue, date, category, quantity, profit, campaign, and department.
+* Developed deterministic Pandas-based analysis tools with an AI Copilot layer for reliable data question answering.
+* Designed a production-style structure with FastAPI backend, React dashboard, Docker Compose, tests, scripts, and documentation.
+
+`FastAPI` `Pandas` `React` `SQLite` `Docker` `AI Copilot` `Data Quality` `Analytics Dashboard`
 
 ---
 
-### 💳 [Bank Customer Churn Prediction](https://github.com/CodeDaoVietNam/BankChurnerPrediction_Project)
-> Logistic Regression **built from scratch using NumPy only** (no Scikit-learn for core algorithm) — demonstrating deep understanding of gradient descent and vectorized math. Full pipeline from EDA to feature engineering to model evaluation.
+### 🌏 [REIS — Realtime Environmental Intelligence System](https://github.com/CodeDaoVietNam/REIS)
 
-**Results:** 86.7% accuracy · 83.6% recall · 65.0% F1-score · ~10,000 customers  
-`NumPy from scratch` `Logistic Regression` `Gradient Descent` `Feature Engineering` `Pandas`
+> A near real-time environmental intelligence system for monitoring AQI and weather data across Vietnam, combining data pipelines, analytics, forecasting, anomaly detection, and dashboard reporting.
+
+* Designed an end-to-end data flow from data collection, streaming, storage, analytics, forecasting, insight generation, and reporting.
+* Built dashboard views for AQI monitoring, maps, alerts, forecast trends, province comparison, and environmental insights.
+* Integrated a realtime-oriented architecture using API services, streaming concepts, time-series storage, and frontend visualization.
+* Focused on moving beyond passive monitoring by adding short-term prediction, anomaly detection, and explainable insights.
+
+`Python` `FastAPI` `React` `Kafka` `TimescaleDB` `AQI` `Forecasting` `Anomaly Detection`
+
+---
+
+### 📈 [DATATHON 2026 — Retail Intelligence & Sales Forecasting](https://github.com/CodeDaoVietNam/DATATHON_2026)
+
+> A fashion e-commerce forecasting project focused on predicting daily Revenue and COGS using multi-source business data.
+
+* Processed multi-source datasets including orders, payments, products, customers, promotions, inventory, web traffic, shipping, returns, reviews, and geography.
+* Built feature engineering workflows for time-series forecasting while avoiding data leakage.
+* Conducted revenue trend analysis, seasonality analysis, promotion impact analysis, inventory risk analysis, and RFM customer segmentation.
+* Compared multiple forecasting approaches including statistical baselines, LightGBM, XGBoost, CatBoost, Prophet, and explainability techniques.
+
+`Pandas` `Time Series` `Feature Engineering` `LightGBM` `XGBoost` `CatBoost` `Prophet` `SHAP`
+
+---
+
+### 🫀 [Cleveland Heart Disease Diagnosis System](https://github.com/CodeDaoVietNam/Cleveland_Heart_Disease_Diagnosis)
+
+> An end-to-end cardiovascular risk assessment system with ML inference, explainability, OCR, LLM-assisted report interpretation, and containerized deployment.
+
+* Built a machine learning pipeline using preprocessing, feature engineering, XGBoost training, cross-validation, and model evaluation.
+* Integrated SHAP explainability to make predictions more interpretable.
+* Developed a FastAPI backend and Streamlit frontend for interactive prediction and report generation.
+* Added Docker-based deployment, API validation, logging, and GitHub Actions CI/CD workflow.
+
+`XGBoost` `SHAP` `FastAPI` `Streamlit` `Docker` `GitHub Actions` `Gemini API` `EasyOCR`
 
 ---
 
 ### 📚 [ArXiv Reference Parsing & Citation Matching](https://github.com/CodeDaoVietNam/Parsing_And_Matching-References-ArXiv)
-> Automated end-to-end pipeline for knowledge extraction from LaTeX scientific papers. Hybrid approach combining Random Forest + Sentence-BERT (all-MiniLM-L6-v2) for citation matching, outperforming TF-IDF baseline.
 
-**Results:** MRR 0.69 · Recall@5 69.5% · +6% improvement over TF-IDF baseline · 44 engineered features  
-`Sentence-BERT` `Random Forest` `TF-IDF` `LaTeX Parsing` `NLP Pipeline`
+> An automated NLP pipeline for parsing LaTeX scientific papers and matching in-text citations with bibliography references.
 
----
+* Built a one-command pipeline for paper parsing, reference extraction, candidate generation, feature engineering, model training, prediction, and evaluation.
+* Combined TF-IDF, Jaccard similarity, Sentence-BERT embeddings, and Random Forest classification.
+* Engineered 44 features and evaluated ranking performance using MRR and Recall@K.
+* Improved citation matching performance over a TF-IDF heuristic baseline.
 
-### 🏨 [Hotel Recommendation System (Content-Based)](https://github.com/CodeDaoVietNam/Recommend_Hotel_Content_Based)
-> Smart hotel recommendation engine tailored for Vietnamese travelers, powered by semantic search and Named Entity Recognition (NER) to match user preferences with hotel features.
-
-`Semantic Search` `NER` `Content-Based Filtering` `Scikit-learn` `Pandas`
+`Python` `NLP` `Sentence-BERT` `TF-IDF` `Random Forest` `LaTeX Parsing` `Automation Pipeline`
 
 ---
 
-### ✈️ [British Airways Review Analysis](https://github.com/CodeDaoVietNam/British_Airway_Analysis)
-> Sentiment and topic analysis on British Airways customer flight reviews — extracting behavioral patterns from unstructured text data.
+### 🏨 [Hotel Recommendation System](https://github.com/CodeDaoVietNam/Recommend_Hotel_Content_Based)
 
-`NLP` `Sentiment Analysis` `Pandas` `Visualization`
+> A Vietnamese hotel recommendation system that matches user preferences with hotel features using content-based filtering, semantic search, and location-aware matching.
 
----
+* Built a recommendation workflow using hotel attributes, facilities, location information, text features, and user preferences.
+* Implemented semantic search and Named Entity Recognition to understand Vietnamese search queries.
+* Processed and transformed hotel data for downstream recommendation tasks.
+* Designed a user-friendly search experience for Vietnamese travelers.
 
-### 🌳 [Decision Tree Classification — Multi-Domain](https://github.com/CodeDaoVietNam/Decision-Tree-Classification)
-> Decision Tree models evaluated across 3 real-world datasets: Diabetes (medical), Abalone (biological), Telco Churn (business) — comprehensive cross-domain analysis of model behavior and feature importance.
-
-`Scikit-learn` `Decision Trees` `Cross-domain ML` `Jupyter`
+`Recommendation System` `Semantic Search` `NER` `Content-Based Filtering` `Pandas` `Scikit-learn`
 
 ---
 
@@ -117,17 +162,18 @@ I'm a 3rd-year Computer Science student at **Ho Chi Minh University of Science (
 
 ## 📚 Currently Learning
 
-- ⚙️ **MLOps**: experiment tracking with MLflow / W&B, model serving at scale  
-- 🤖 **Transformer architectures**: attention mechanisms, fine-tuning LLMs  
-- 🐳 **Cloud deployment**: containerized ML services on AWS / GCP basics
+* ⚙️ **MLOps**: experiment tracking, model registry, CI/CD, containerized model serving
+* 🧠 **LLM Engineering**: tool calling, structured output, RAG, evaluation, and hallucination control
+* 🏗️ **Data Engineering Basics**: data pipelines, validation, orchestration, warehouse/lakehouse concepts
+* 🚀 **Production AI Systems**: FastAPI, Docker, monitoring, scalable inference, and automation workflows
 
 ---
 
 ## 🤝 Open To
 
-- 💼 Data Science / AI Engineer **internship opportunities**
-- 🤝 Collaborating on ML / NLP / CV open-source projects
-- 💬 Discussing ideas around Explainable AI and applied ML
+* 💼 Data Science / AI / Automation internship opportunities
+* 🤝 Collaborating on ML, NLP, analytics, and AI automation projects
+* 💬 Discussing ideas around applied ML, data pipelines, explainable AI, and production-ready AI systems
 
 Feel free to reach out via [LinkedIn](https://linkedin.com/in/your-linkedin) or [email](mailto:tiennguyenbungbu1210@gmail.com)!
 
