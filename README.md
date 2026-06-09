@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ti%E1%BA%BFn-nguy%E1%BB%85n-1774b240a/)">
+  <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-nguy%E1%BB%85n-1774b240a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ductien15082005@@gmail.com">
